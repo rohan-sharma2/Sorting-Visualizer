@@ -4,4 +4,4 @@
 2.Designed user-friendly features, including a new array button for generating random arrays, a size adjustment
 button for dynamically changing the array size, and a playback speed control for adjusting the sorting animation
 speed
-
+3.<a href="https://rohan-sharma2.github.io/Sorting-Visualizer/">Click here to use Sorting Visualizer</a>
